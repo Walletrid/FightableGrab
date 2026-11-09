@@ -1,0 +1,20 @@
+{
+  "template": "Rethunk-Tech/mortar-bepinex5-template",
+  "ref": "v0.2.2",
+  "name": "FightableGrabs",
+  "values": {
+    "assets": "false",
+    "audience": "everyone",
+    "categories": "bepinex|misc|tweaks-and-quality-of-life",
+    "config": "true",
+    "configSync": "false",
+    "description": "Fight back from the masked's grip!",
+    "idPrefix": "com.wallet",
+    "loaderPackVersion": "5.4.2305",
+    "modAuthor": "Wallet",
+    "netcode": "true",
+    "team": "Wallet"
+  },
+  "game": "lethal-company",
+  "templateIcon": "983d4b2b4b9d25da1f4d005ebd711cbe6cf3c3273fff34283a1ec32222efdc0a"
+}
